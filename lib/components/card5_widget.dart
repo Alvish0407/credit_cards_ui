@@ -94,6 +94,7 @@ class _Card5WidgetState extends State<Card5Widget> {
                                 style: FlutterFlowTheme.of(context)
                                     .bodyMedium
                                     .override(
+                                      fontWeight: FontWeight.bold,
                                       fontFamily: 'Gilroy',
                                       color: FlutterFlowTheme.of(context).info,
                                       useGoogleFonts: false,
@@ -119,6 +120,7 @@ class _Card5WidgetState extends State<Card5Widget> {
                                       style: FlutterFlowTheme.of(context)
                                           .bodyMedium
                                           .override(
+                                            fontWeight: FontWeight.bold,
                                             fontFamily: 'Gilroy',
                                             color: FlutterFlowTheme.of(context)
                                                 .info,
@@ -136,7 +138,7 @@ class _Card5WidgetState extends State<Card5Widget> {
                           alignment: AlignmentDirectional(1.0, 0.0),
                           child: ClipRRect(
                             borderRadius: BorderRadius.circular(8.0),
-                            child: Image.network(
+                            child: SvgPicture.network(
                               widget.bankLogo!,
                               width: 90.0,
                               height: 23.0,
@@ -174,10 +176,10 @@ class _Card5WidgetState extends State<Card5Widget> {
                               style: FlutterFlowTheme.of(context)
                                   .bodyMedium
                                   .override(
+                                    fontWeight: FontWeight.bold,
                                     fontFamily: 'Gilroy',
                                     color: FlutterFlowTheme.of(context).info,
                                     letterSpacing: 1.2,
-                                    fontWeight: FontWeight.w300,
                                     useGoogleFonts: false,
                                   ),
                             ),
@@ -204,6 +206,7 @@ class _Card5WidgetState extends State<Card5Widget> {
                                         style: FlutterFlowTheme.of(context)
                                             .bodyMedium
                                             .override(
+                                              fontWeight: FontWeight.bold,
                                               fontFamily: 'Gilroy',
                                               color: Color(0xFFD2D2D2),
                                               fontSize: 12.0,
@@ -235,6 +238,7 @@ class _Card5WidgetState extends State<Card5Widget> {
                                   textStyle: FlutterFlowTheme.of(context)
                                       .titleSmall
                                       .override(
+                                        fontWeight: FontWeight.bold,
                                         fontFamily: 'Gilroy',
                                         color: FlutterFlowTheme.of(context)
                                             .primaryText,
@@ -291,12 +295,12 @@ class _Card5WidgetState extends State<Card5Widget> {
                                   style: FlutterFlowTheme.of(context)
                                       .bodyMedium
                                       .override(
+                                        fontWeight: FontWeight.bold,
                                         fontFamily: 'Gilroy',
                                         color:
                                             FlutterFlowTheme.of(context).info,
                                         fontSize: 12.0,
                                         letterSpacing: 2.0,
-                                        fontWeight: FontWeight.w500,
                                         useGoogleFonts: false,
                                       ),
                                 ),
@@ -318,11 +322,11 @@ class _Card5WidgetState extends State<Card5Widget> {
                                     style: FlutterFlowTheme.of(context)
                                         .bodyMedium
                                         .override(
+                                          fontWeight: FontWeight.bold,
                                           fontFamily: 'Gilroy',
                                           color: Color(0xFF8A8A8A),
                                           fontSize: 12.0,
                                           letterSpacing: 1.2,
-                                          fontWeight: FontWeight.w300,
                                           useGoogleFonts: false,
                                         ),
                                   ),
@@ -358,6 +362,7 @@ class _Card5WidgetState extends State<Card5Widget> {
                               textStyle: FlutterFlowTheme.of(context)
                                   .titleSmall
                                   .override(
+                                    fontWeight: FontWeight.bold,
                                     fontFamily: 'Gilroy',
                                     color: Colors.white,
                                     letterSpacing: 1.2,

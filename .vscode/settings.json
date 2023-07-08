@@ -1,0 +1,10 @@
+{
+    "editor.codeActionsOnSave": {
+        "source.fixAll": false,
+        "source.organizeImports": false
+    },
+    "[dart]": {
+        "editor.formatOnSave": false,
+        "editor.formatOnType": false,
+    },
+}

@@ -53,7 +53,7 @@ class _Card1WidgetState extends State<Card1Widget> {
           children: [
             ClipRRect(
               borderRadius: BorderRadius.circular(8.0),
-              child: Image.network(
+              child: SvgPicture.network(
                 widget.bgImage!,
                 width: 403.0,
                 height: 250.0,
