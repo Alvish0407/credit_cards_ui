@@ -10,3 +10,4 @@ LinkedIn Post: https://www.linkedin.com/feed/update/urn:li:groupPost:10408911-70
 
 https://github.com/Alvish0407/credit_cards_ui/assets/80829856/776fe20a-d696-47ab-a338-3af39d24d936
 
+![cover](https://github.com/Alvish0407/credit_cards_ui/assets/80829856/0a616d2b-aa16-4a63-b68b-eddd24b2c7ab)
