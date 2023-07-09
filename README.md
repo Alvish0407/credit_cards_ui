@@ -1,20 +1,12 @@
 # CreditCardsUI
 
-A new Flutter project.
+FlutterFlow is a rapidly growing platform with a small but thriving community. It's constantly adding new features, which is why I decided to create something that's not yet available in the FlutterFlow marketplace. After browsing through the marketplace, I noticed the absence of credit card UI templates, and that's when I got the idea to fill that gap.
 
-## Getting Started
+After extensive research and exploring the Figma community, I came across many of credit card designs. With so many options available, including flippable cards, neoPOP CRED cards, and Glassmorphism cards.
 
-FlutterFlow projects are built to run on the Flutter _stable_ release.
+I'm excited to share that I've uploaded these fully customisable credit card UIs to the [FlutterFlow marketplace](https://app.flutterflow.io/marketplace/item/HVjDU3vnH3XUibuTuppD). Now, anyone can use them to enhance their projects.
 
-### Getting started continued:
+LinkedIn Post: https://www.linkedin.com/feed/update/urn:li:groupPost:10408911-7083729907159097344/
 
-This project is a starting point for a Flutter application.
+https://github.com/Alvish0407/credit_cards_ui/assets/80829856/776fe20a-d696-47ab-a338-3af39d24d936
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
