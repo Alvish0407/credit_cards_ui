@@ -4,7 +4,7 @@ FlutterFlow is a rapidly growing platform with a small but thriving community. I
 
 After extensive research and exploring the Figma community, I came across many of credit card designs. With so many options available, including flippable cards, neoPOP CRED cards, and Glassmorphism cards.
 
-I'm excited to share that I've uploaded these fully customisable credit card UIs to the [FlutterFlow marketplace](https://app.flutterflow.io/marketplace/item/HVjDU3vnH3XUibuTuppD). Now, anyone can use them to enhance their projects.
+I'm excited to share that I've uploaded these fully customisable credit card UIs to the [FlutterFlow marketplace](https://app.flutterflow.io/marketplace/item/KiIfe2cAfhndoxVc45Hl). Now, anyone can use them to enhance their projects.
 
 LinkedIn Post: https://www.linkedin.com/feed/update/urn:li:groupPost:10408911-7083729907159097344/
 
